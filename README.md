@@ -60,7 +60,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 ## Interval
 
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
+- [x] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/)
