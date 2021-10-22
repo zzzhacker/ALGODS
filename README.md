@@ -93,7 +93,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
