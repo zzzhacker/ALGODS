@@ -82,7 +82,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 ## Matrix
 
 - [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-- [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [ ] [Word Search](https://leetcode.com/problems/word-search/)
 
@@ -104,7 +104,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 ---
 
 ## Tree
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
 - [ ] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
