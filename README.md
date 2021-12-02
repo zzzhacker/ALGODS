@@ -3,9 +3,9 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 ![image](https://user-images.githubusercontent.com/18663295/115101892-3a168600-9f65-11eb-9c30-f3c89cf64dfb.png)
 
-> __28 / 75__
+> __29 / 75__
 
-> ![Progress](https://progress-bar.dev/37/?title=completed)
+> ![Progress](https://progress-bar.dev/38/?title=completed)
 ## Array
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -72,7 +72,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 ## Linked List
 
-- [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [ ] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
