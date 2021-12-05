@@ -3,9 +3,9 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 ![image](https://user-images.githubusercontent.com/18663295/115101892-3a168600-9f65-11eb-9c30-f3c89cf64dfb.png)
 
-> __36 / 75__
+> __37 / 75__
 
-> ![Progress](https://progress-bar.dev/48/?title=completed)
+> ![Progress](https://progress-bar.dev/49/?title=completed)
 ## Array
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -116,7 +116,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-- [ ] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- [x] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [ ] [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
 - [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/)
