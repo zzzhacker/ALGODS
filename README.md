@@ -3,9 +3,9 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 ![image](https://user-images.githubusercontent.com/18663295/115101892-3a168600-9f65-11eb-9c30-f3c89cf64dfb.png)
 
-> __52 / 75__
+> __53 / 75__
 
-> ![Progress](https://progress-bar.dev/69/?title=completed)
+> ![Progress](https://progress-bar.dev/70/?title=completed)
 ## Array
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -108,7 +108,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 ## Tree
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [x] [Same Tree](https://leetcode.com/problems/same-tree/)
-- [ ] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [x] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [x] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [x] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
