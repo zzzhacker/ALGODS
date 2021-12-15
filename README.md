@@ -3,9 +3,9 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 ![image](https://user-images.githubusercontent.com/18663295/115101892-3a168600-9f65-11eb-9c30-f3c89cf64dfb.png)
 
-> __49 / 75__
+> __51 / 75__
 
-> ![Progress](https://progress-bar.dev/65/?title=completed)
+> ![Progress](https://progress-bar.dev/68/?title=completed)
 ## Array
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -111,10 +111,10 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [ ] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [x] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-- [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+- [x] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 - [x] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 - [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-- [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+- [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [x] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [x] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
