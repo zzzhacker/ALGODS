@@ -3,9 +3,9 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 ![image](https://user-images.githubusercontent.com/18663295/115101892-3a168600-9f65-11eb-9c30-f3c89cf64dfb.png)
 
-> __56 / 75__
+> __57 / 75__
 
-> ![Progress](https://progress-bar.dev/74/?title=completed)
+> ![Progress](https://progress-bar.dev/76/?title=completed)
 ## Array
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -85,7 +85,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 - [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-- [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
+- [x] [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [x] [Word Search](https://leetcode.com/problems/word-search/)
 
 ---
