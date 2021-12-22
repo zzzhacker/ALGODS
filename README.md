@@ -3,9 +3,9 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 ![image](https://user-images.githubusercontent.com/18663295/115101892-3a168600-9f65-11eb-9c30-f3c89cf64dfb.png)
 
-> __58 / 75__
+> __59 / 75__
 
-> ![Progress](https://progress-bar.dev/77/?title=completed)
+> ![Progress](https://progress-bar.dev/78/?title=completed)
 ## Array
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -113,7 +113,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [x] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 - [x] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
-- [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+- [x] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [x] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [x] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
