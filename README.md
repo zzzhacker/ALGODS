@@ -3,7 +3,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 ![image](https://user-images.githubusercontent.com/18663295/115101892-3a168600-9f65-11eb-9c30-f3c89cf64dfb.png)
 
-> __63 / 75__
+> __64 / 75__
 
 > ![Progress](https://progress-bar.dev/84/?title=completed)
 ## Array
@@ -126,7 +126,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 ## Heap
 
 - [x] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+- [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [x] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
 ## Important Link:
