@@ -5,7 +5,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 > __64 / 75__
 
-> ![Progress](https://progress-bar.dev/84/?title=completed)
+> ![Progress](https://progress-bar.dev/85/?title=completed)
 ## Array
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
