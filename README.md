@@ -3,9 +3,9 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 ![image](https://user-images.githubusercontent.com/18663295/115101892-3a168600-9f65-11eb-9c30-f3c89cf64dfb.png)
 
-> __71 / 75__
+> __72 / 75__
 
-> ![Progress](https://progress-bar.dev/94/?title=completed)
+> ![Progress](https://progress-bar.dev/96/?title=completed)
 ## Array
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -41,7 +41,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
 - [x] [House Robber](https://leetcode.com/problems/house-robber/)
 - [x] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
-- [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
+- [x] [Decode Ways](https://leetcode.com/problems/decode-ways/)
 - [x] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [x] [Jump Game](https://leetcode.com/problems/jump-game/)
 
