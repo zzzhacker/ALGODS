@@ -3,9 +3,9 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 ![image](https://user-images.githubusercontent.com/18663295/115101892-3a168600-9f65-11eb-9c30-f3c89cf64dfb.png)
 
-> __70 / 75__
+> __71 / 75__
 
-> ![Progress](https://progress-bar.dev/93/?title=completed)
+> ![Progress](https://progress-bar.dev/94/?title=completed)
 ## Array
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -23,7 +23,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 ## Binary
 
-- [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+- [x] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 - [x] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [x] [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [x] [Missing Number](https://leetcode.com/problems/missing-number/)
