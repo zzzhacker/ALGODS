@@ -129,5 +129,9 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [x] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
+
+## Backtracking
+ - [x] [Permutations](https://leetcode.com/problems/permutations/)
+
 ## Important Link:
 [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
