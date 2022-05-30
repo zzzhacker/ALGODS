@@ -91,8 +91,6 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 ---
 
 ## String
-
-- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [x] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [x] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
@@ -140,3 +138,4 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 ## Sliding Window
 - [x] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [x] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
