@@ -135,3 +135,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 ## Important Link:
 [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+
+
+## Sliding Window
+- [x] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
