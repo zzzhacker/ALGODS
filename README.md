@@ -150,4 +150,5 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 # Binary Search
 - [x] [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 - [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-- [x] [Search in a Sorted Array of Unknown Size] (https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
+- [x] [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
+- [x] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
