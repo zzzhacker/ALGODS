@@ -152,3 +152,6 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [x] [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
 - [x] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+
+# Top K elements
+- [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
