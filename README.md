@@ -124,7 +124,6 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 ## Heap
 
 - [x] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [x] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
 
@@ -157,3 +156,4 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [x] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 - [x] [Minimum Cost to Connect Sticks](https://leetcode.com/problems/k-closest-points-to-origin/)
+- [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
