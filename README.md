@@ -165,3 +165,4 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Path Sum](https://leetcode.com/problems/path-sum/)
 - [x] [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
 - [x] [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+- [x] [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/)
