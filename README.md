@@ -125,6 +125,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 - [x] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [x] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- [x] [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 
 
 ## Backtracking
@@ -181,3 +182,5 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [x] [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
 - [x] [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
+
+
