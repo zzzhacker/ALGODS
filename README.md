@@ -44,6 +44,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Decode Ways](https://leetcode.com/problems/decode-ways/)
 - [x] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [x] [Jump Game](https://leetcode.com/problems/jump-game/)
+- [x] [Stone Game](https://leetcode.com/problems/stone-game/)
 
 ---
 
