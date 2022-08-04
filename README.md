@@ -187,3 +187,4 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 # 0-1 Knapsack
 - [x] [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)
+- [x] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
