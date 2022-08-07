@@ -192,3 +192,4 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 # Topological sort
 - [x] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+- [x] [Loud and Rich](https://leetcode.com/problems/loud-and-rich/)
