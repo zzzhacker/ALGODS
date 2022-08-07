@@ -121,6 +121,8 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [x] [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
 - [x] [Word Search II](https://leetcode.com/problems/word-search-ii/)
+- [x] [Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions/)
+
 
 ---
 
