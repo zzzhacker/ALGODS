@@ -19,6 +19,8 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [3Sum](https://leetcode.com/problems/3sum/)
 - [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [x] [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
+- [x] [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/)
+
 ---
 
 ## Binary
