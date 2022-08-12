@@ -77,6 +77,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [x] [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/)
 - [x] [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/)
+- [x] [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/s)
 
 ---
 
@@ -159,13 +160,13 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [x] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
-# Binary Search
+## Binary Search
 - [x] [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 - [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [x] [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
 - [x] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 
-# Top K elements
+## Top K elements
 - [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [x] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 - [x] [Minimum Cost to Connect Sticks](https://leetcode.com/problems/k-closest-points-to-origin/)
@@ -173,7 +174,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Sort Characters By Frequency](https://leetcode.com/problems/top-k-frequent-elements/)
 
 
-# DFS 
+## DFS 
 - [x] [Flood Fill](https://leetcode.com/problems/flood-fill/)
 - [x] [Path Sum](https://leetcode.com/problems/path-sum/)
 - [x] [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
@@ -183,25 +184,25 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
 
 
-# BFS
+## BFS
 - [x] [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 - [x] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - [x] [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 - [x] [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - [x] [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 
-# Stocks Problems (DP)
+## Stocks Problems (DP)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [x] [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
 - [x] [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
 
 
-# 0-1 Knapsack
+## 0-1 Knapsack
 - [x] [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)
 - [x] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 - [x] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 
-# Topological sort
+## Topological sort
 - [x] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 - [x] [Loud and Rich](https://leetcode.com/problems/loud-and-rich/)
