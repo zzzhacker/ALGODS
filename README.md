@@ -140,7 +140,11 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 - [x] [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 
-
+## Hashing
+- [x] [First Unique Character](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [x] [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/)
+  
 ## Backtracking
 
  - [x] [Permutations](https://leetcode.com/problems/permutations/)
