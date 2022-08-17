@@ -146,13 +146,13 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/)
   
 ## Backtracking
-
  - [x] [Permutations](https://leetcode.com/problems/permutations/)
  - [x] [Subsets](https://leetcode.com/problems/subsets/)
  - [x] [Subsets II](https://leetcode.com/problems/subsets-ii/)
  - [x] [Combinations](https://leetcode.com/problems/combinations/) 
  - [x] [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) 
- - [x] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) 
+ - [x] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+ - [x] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
 
 ## Important Link:
