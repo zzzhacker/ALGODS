@@ -152,6 +152,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
  - [x] [Subsets II](https://leetcode.com/problems/subsets-ii/)
  - [x] [Combinations](https://leetcode.com/problems/combinations/) 
  - [x] [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) 
+ - [x] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) 
 
 
 ## Important Link:
