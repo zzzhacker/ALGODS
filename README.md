@@ -218,3 +218,4 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 ## Two Pointer
 - [x] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [x] [3Sum](https://leetcode.com/problems/3sum/)
+- [x] [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
