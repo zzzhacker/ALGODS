@@ -16,7 +16,6 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-- [x] [3Sum](https://leetcode.com/problems/3sum/)
 - [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [x] [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
 - [x] [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/)
@@ -218,3 +217,4 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 ## Two Pointer
 - [x] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [x] [3Sum](https://leetcode.com/problems/3sum/)
