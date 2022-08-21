@@ -215,3 +215,6 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 - [x] [Loud and Rich](https://leetcode.com/problems/loud-and-rich/)
 - [x] [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/submissions/)
+
+## Two Pointer
+- [x] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
