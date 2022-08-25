@@ -154,6 +154,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
  - [x] [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) 
  - [x] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
  - [x] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+ - [x] [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)
 
 
 ## Important Link:
