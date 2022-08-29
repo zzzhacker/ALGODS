@@ -99,6 +99,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [x] [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [x] [Word Search](https://leetcode.com/problems/word-search/)
+- [x] [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)
 
 ---
 
