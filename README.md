@@ -108,13 +108,17 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [x] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 - [x] [Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encode-and-decode-strings/)
 
 ---
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [x] [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
+
+## Stack
+
 
 ## Tree
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
