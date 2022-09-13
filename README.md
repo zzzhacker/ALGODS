@@ -114,11 +114,9 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encode-and-decode-strings/)
 
 ---
+## Stack
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [x] [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
-
-## Stack
-
 
 ## Tree
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
@@ -145,6 +143,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [x] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 - [x] [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+- [x] [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)
 
 ## Hashing
 - [x] [First Unique Character](https://leetcode.com/problems/first-unique-character-in-a-string/)
