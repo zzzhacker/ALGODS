@@ -113,6 +113,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [x] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 - [x] [Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encode-and-decode-strings/)
+- [x] [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)
 
 ---
 ## Stack
