@@ -31,6 +31,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [x] [Missing Number](https://leetcode.com/problems/missing-number/)
 - [x] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+- [x] [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
 
 ---
 
@@ -225,3 +226,4 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [3Sum](https://leetcode.com/problems/3sum/)
 - [x] [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 - [x] [4Sum](https://leetcode.com/problems/4sum/)
+
