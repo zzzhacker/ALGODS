@@ -119,6 +119,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 ## Stack
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [x] [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
+- [x] [Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/)
 
 ## Tree
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
