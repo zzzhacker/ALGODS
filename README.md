@@ -57,7 +57,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)
 - [x] [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/)
 - [x] [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
-
+- [x] [Time Needed to Rearrange a Binary String](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/description/)
 
 
 ---
