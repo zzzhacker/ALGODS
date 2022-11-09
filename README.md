@@ -235,3 +235,4 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 ## Monotonic Queue
 - [x] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+- [x] [Online stock span](https://leetcode.com/problems/online-stock-span/)
