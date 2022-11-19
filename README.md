@@ -76,7 +76,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 
 ---
 
-## Interval
+## Sweep line
 
 - [x] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
@@ -85,6 +85,7 @@ In this repo I included all of the ALGO and DS problems and thier solutions I ha
 - [x] [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/)
 - [x] [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 - [x] [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+- [x] [Erect the Fence](https://leetcode.com/problems/erect-the-fence)
 ---
 
 ## Linked List
